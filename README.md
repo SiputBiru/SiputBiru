@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vulkan and OpenGL**
 
-- 💬 Ask me about **Devops, little GameDev**
+- 💬 Ask me about **Devops and little GameDev**
 
 - ⚡ Fun fact **I Think i like Rust**
 
