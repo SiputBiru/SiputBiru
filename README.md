@@ -1,5 +1,5 @@
-<h1 align="center">Siput Biru</h1>
-<h3 align="center">A Computer Science Student that Learning Graphics programming</h3>
+<h1 align="left">Siput Biru</h1>
+<h3 align="left">A Computer Science Student that Learning Graphics programming</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
