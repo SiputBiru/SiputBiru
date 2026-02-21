@@ -10,8 +10,8 @@
 
 ### Recreational Programming
 *I enjoy building "castles in the air"—low-level systems and tools built for the sake of exploration.*
-* [**sgl.h:**](https://github.com/SiputBiru/sgl.h) A custom 3D graphics library written in C.
-* [**eq2c-rs**](https://github.com/SiputBiru/eq2c-rs) simple cli tools convert Equirectangular HDRI images into Cubemaps.
+* [**sgl.h:**](https://github.com/SiputBiru/sgl.h) a single-header GPU batching layer for SDL3..
+* [**eq2c-rs**](https://github.com/SiputBiru/eq2c-rs) a simple cli tools convert Equirectangular HDRI images into Cubemaps.
 
 ---
 
