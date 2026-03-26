@@ -1,5 +1,5 @@
 <h1 align="left">Siput Biru</h1>
-<h3 align="left">A Computer Science Student that Learning Graphics programming </h3>
+<h3 align="left">A Computer Science Student that still Learning about Graphics programming and little bit of recreational programming</h3>
 
 ---
 
@@ -8,11 +8,11 @@
 
 ---
 
-### Recreational Programming
-*I enjoy building "castles in the air"—low-level systems and tools built for the sake of exploration.*
+### My Recreational Things:
 * [**sgl.h:**](https://github.com/SiputBiru/sgl.h) a single-header GPU batching layer for SDL3..
 * [**eq2c-rs**](https://github.com/SiputBiru/eq2c-rs) a simple cli tools convert Equirectangular HDRI images into Cubemaps.
-* [**sbl**](https://github.com/SiputBiru/sbl) STB-style single-header libraries written in C/C++.
+* [**sbl**](https://github.com/SiputBiru/sbl) STB-style single-header libraries written in C99.
+* [**cangkang**](https://github.com/SiputBiru/cangkang) A simple and minimal SSG, written in Rust with zero dependencies.
 
 ---
 
