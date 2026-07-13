@@ -16,6 +16,8 @@
 * [**sbl**](https://github.com/SiputBiru/sbl) STB-style single-header libraries written in C99.
 * [**cangkang**](https://github.com/SiputBiru/cangkang) A simple and minimal SSG, written in Rust with zero dependencies.
 * [**eqtui**](https://github.com/SiputBiru/eqtui) A simple and minimal terminal-based(TUI) audio equalizer built with Rust and Ratatui.
+* [**sb_nes**](https://github.com/SiputBiru/sb_nes) Yet another nes emulator written in C99.
+
 
 ---
 
